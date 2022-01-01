@@ -1,0 +1,14 @@
+Features:
+Admin
+    -login
+    -dashboard
+
+TechStack:
+
+
+
+Pages:
+
+
+
+Palette:
