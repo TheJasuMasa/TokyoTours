@@ -1,0 +1,65 @@
+//Features//
+Admin
+    -login
+    -dashboard
+        ・add tours
+        ・modify tours
+        ・add tour guide
+        ・modify tour guide
+
+Calendar
+    -make reservations
+    -see tour guide availability
+
+SSG
+Dark Mode
+Explore Tokyo Cuisine as... (English only)
+
+
+//TechStack//
+react
+react-calendar
+next.js
+i18n (next.js)
+chakra-ui
+MongoDB
+
+//Pages//
+Landing
+About
+Contact
+
+Tours
+Tour Details
+Guides
+Guide Details
+
+
+//Languages//
+English EN (Main)
+Japanese JP (Translated)
+Chinese ZH (Google Translate)
+Korean KO (Google Translate)
+Arabic AR (Google Translate)
+
+//Color Palette//
+Primary: #EB0A00
+CTA-Highlght: #3BED4D, #38B812
+Secondary: #B84B12, #AD6945 
+
+
+
+Planning:
+https://app.diagrams.net/
+
+//Data Models//
+
+Reservations:
+
+Restaurants:
+
+Tours:
+
+Guides:
+
+Users:
