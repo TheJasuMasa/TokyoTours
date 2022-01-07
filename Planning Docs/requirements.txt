@@ -17,12 +17,17 @@ Explore Tokyo Cuisine as... (English only)
 
 
 //TechStack//
+
+Node:
 react
 @toast-ui/react-calendar
 next.js
 i18n (next.js)
 chakra-ui
-MongoDB
+
+Django:
+django-rest-framework
+MongoDB (djongo)
 
 //Pages//
 Landing
