@@ -18,7 +18,7 @@ Explore Tokyo Cuisine as... (English only)
 
 //TechStack//
 
-Node:
+Node
 react
 @toast-ui/react-calendar
 next.js
@@ -27,7 +27,7 @@ chakra-ui
 
 Django:
 django-rest-framework
-MongoDB (djongo)
+MongoDB (djongo) -or- DynamoDB
 
 //Pages//
 Landing
@@ -38,6 +38,7 @@ Tours
 Tour Details
 Guides
 Guide Details
+Reserve
 
 
 //Languages//
